@@ -1,0 +1,26 @@
+avergae runtime for each commit: 18753.2503974
+---------runtime of tests predicted by each model----------
+runtime
+3388.23264045
+Iowrite
+10580.384736
+CPU
+7103.17632022
+Ioread
+7279.2694382
+Memory
+3623.81089888
+---------runtime of tests predicted by any model----------
+11010.3289213
+---------runtime of tests cover 90% of regressions--------
+0.2473411 77.17043 
+0.3173181 99.00325 
+0.376596 117.498 
+0.4157344 129.7091 
+0.7195465 224.4985 
+---------runtime of tests cover all regressions-----------
+0.3147437 98.20005 
+0.4567493 142.5058 
+0.6273468 195.7322 
+0.653231 203.8081 
+0.8088272 252.3541 
